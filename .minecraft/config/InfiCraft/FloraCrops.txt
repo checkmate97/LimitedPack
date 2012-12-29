@@ -1,0 +1,38 @@
+# Configuration file
+# Generated on 27/12/12 17.36
+
+####################
+# block
+####################
+
+block {
+    I:Crops=3260
+}
+
+
+####################
+# general
+####################
+
+general {
+    I:"Barley Spawn Density"=64
+    I:"Barley Spawn Height"=64
+}
+
+
+####################
+# item
+####################
+
+item {
+    I:"Barley Bag"=12412
+    I:"Barley Seed"=12403
+    I:"Carrot Bag"=12414
+    I:"Food Items"=12404
+    I:Ingredients=12407
+    I:"Nether Wart Bag"=12415
+    I:"Potato Bag"=12413
+    I:"Wheat Bag"=12411
+}
+
+

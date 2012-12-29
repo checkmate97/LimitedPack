@@ -1,0 +1,41 @@
+# Configuration file
+# Generated on 27/12/12 17.36
+
+####################
+# block
+####################
+
+block {
+    I:Berry_Bush=3257
+}
+
+
+####################
+# general
+####################
+
+general {
+    I:Blackberry_Spawn_Density=10
+    I:Blackberry_Spawn_Height=64
+    I:Blackberry_Spawn_Range=128
+    I:Blueberry_Spawn_Density=12
+    I:Blueberry_Spawn_Height=64
+    I:Blueberry_Spawn_Range=128
+    I:Geoberry_Spawn_Density=14
+    I:Geoberry_Spawn_Height=64
+    I:Geoberry_Spawn_Range=128
+    I:Raspberry_Spawn_Density=14
+    I:Raspberry_Spawn_Height=64
+    I:Raspberry_Spawn_Range=128
+}
+
+
+####################
+# item
+####################
+
+item {
+    I:Berry_Food=12402
+}
+
+

@@ -1,0 +1,32 @@
+# Configuration file
+# Generated on 27/12/12 17.36
+
+####################
+# block
+####################
+
+block {
+    I:"Cloud Block"=3253
+}
+
+
+####################
+# general
+####################
+
+general {
+    I:"Ash Cloud Spawn Density"=20
+    I:"Ash Cloud Spawn Height"=40
+    I:"Ash Cloud Spawn Range"=78
+    I:"Cloud Spawn Density"=10
+    I:"Cloud Spawn Height"=192
+    I:"Cloud Spawn Range"=48
+    I:"Dark Cloud Spawn Density"=10
+    I:"Dark Cloud Spawn Height"=64
+    I:"Dark Cloud Spawn Range"=128
+    I:"Sulfur Cloud Spawn Density"=20
+    I:"Sulfur Cloud Spawn Height"=40
+    I:"Sulfur Cloud Spawn Range"=78
+}
+
+

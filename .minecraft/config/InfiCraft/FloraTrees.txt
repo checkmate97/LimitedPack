@@ -1,0 +1,66 @@
+# Configuration file
+# Generated on 27/12/12 17.36
+
+####################
+# block
+####################
+
+block {
+    I:"Bloodwood Block"=3263
+    I:"Flora Leaves"=3259
+    I:"Planks Block"=3262
+    I:"Redwood Block"=3261
+    I:"Redwood Door"=3252
+    I:"Sakura Leaves"=3258
+    I:Sapling=3256
+    I:"Wood Block"=3251
+}
+
+
+####################
+# boat item
+####################
+
+"boat item" {
+    I:item=12405
+}
+
+
+####################
+# general
+####################
+
+general {
+    I:"Bloodwood Tree Spawn Density"=5
+    I:"Bloodwood Tree Spawn Height"=32
+    I:"Bloodwood Tree Spawn Range"=64
+    B:"Generate Bloodwood Trees"=true
+    B:"Generate Ghost Trees"=true
+    B:"Generate Redwood Trees"=true
+    B:"Generate Sakura Trees"=true
+    B:"Generate Small Eucalyptus Trees"=true
+    I:"Ghost Tree Spawn Density"=25
+    I:"Ghost Tree Spawn Height"=16
+    I:"Ghost Tree Spawn Range"=80
+    I:"Redwood Tree Spawn Density"=60
+    I:"Redwood Tree Spawn Height"=64
+    I:"Redwood Tree Spawn Range"=32
+    I:"Sakura Tree Spawn Density"=10
+    I:"Sakura Tree Spawn Height"=64
+    I:"Sakura Tree Spawn Range"=32
+    I:"Sea level"=64
+    I:"Small Eucalyptus Tree Spawn Density"=25
+    I:"Small Eucalyptus Tree Spawn Height"=64
+    I:"Small Eucalyptus Tree Spawn Range"=32
+}
+
+
+####################
+# item
+####################
+
+item {
+    I:"Redwood Door"=12406
+}
+
+

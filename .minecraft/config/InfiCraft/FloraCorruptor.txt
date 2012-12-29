@@ -1,0 +1,27 @@
+# Configuration file
+# Generated on 27/12/12 17.36
+
+####################
+# block
+####################
+
+block {
+    I:"Corrupt Brick"=3255
+    I:Corruptor=3254
+}
+
+
+####################
+# general
+####################
+
+general {
+    I:"Corruption Speed"=5
+    I:"Corruptor Spawn Density"=1
+    I:"Corruptor Spawn Height"=0
+    I:"Corruptor Spawn Range"=128
+    I:"Corruptor Spawn Slize"=8
+    B:"Spread Corruption"=true
+}
+
+
